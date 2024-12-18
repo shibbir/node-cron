@@ -1,0 +1,8 @@
+{
+	"type": "module",
+	"dependencies": {
+		"@bull-board/express": "^5.21.4",
+		"bullmq": "^5.12.15",
+		"ioredis": "^5.4.1"
+	}
+}
